@@ -3,5 +3,3 @@ numpy==1.23.5
 matplotlib==3.6.0
 seaborn==0.12.2
 Pillow==9.2.0
-webbrowser==0.5.1
-pandas<2.0.2
