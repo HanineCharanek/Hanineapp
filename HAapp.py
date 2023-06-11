@@ -11,7 +11,7 @@ from PIL import Image
 import datetime
 
 # Set the file paths
-file_path = r'C:\Users\student\Desktop\data.csv'
+file_path = data.csv
 file_path1 = r'C:\Users\student\Desktop\data (2).csv'
 
 
