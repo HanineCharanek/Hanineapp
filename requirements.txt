@@ -1,8 +1,8 @@
 Python==3.10.7
 Streamlit==1.13.0
-NumPy version==1.23.5
+numpy==1.23.5
 Matplotlib==3.6.0
 Seaborn==0.12.2
-PIL (Pillow)==9.2.0
-webbrowser module==3.10.7
+Pillow==9.2.0
+webbrowser==0.5.1
 pandas<2.0.2
